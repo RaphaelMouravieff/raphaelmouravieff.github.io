@@ -15,5 +15,12 @@
       <guid>https://raphaelmouravieff.github.io/posts/welcome/</guid>
       <description>&lt;p&gt;Hello! This is my new academic site powered by Hugo + PaperMod.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Partial Execution</title>
+      <link>https://raphaelmouravieff.github.io/research/partial-execution/</link>
+      <pubDate>Mon, 26 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://raphaelmouravieff.github.io/research/partial-execution/</guid>
+      <description>ACL 2024 — Learning Relational Decomposition of Queries for Question Answering from Tables.</description>
+    </item>
   </channel>
 </rss>
